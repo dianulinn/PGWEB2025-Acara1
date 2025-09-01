@@ -1,0 +1,61 @@
+h1 {
+    color: lightseagreen;
+    text-align: center;
+}
+
+h3 {
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: center;
+}
+
+#p1 {
+    text-align: justify;
+    text-indent: 20pt;
+    color: black;
+}
+
+.p2 {
+    text-align: justify;
+    text-indent: 10pt;
+    color: black;
+}
+
+.p3 {
+    text-align: justify;
+    color: burlywood;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+.tr1 {
+    background-color: lightcyan;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+caption {
+    caption-side: bottom;
+    text-align:left;
+    font-size: 12px;
+    padding:6px;
+}
+
+img {
+    max-width:100%;
+}
